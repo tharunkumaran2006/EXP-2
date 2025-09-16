@@ -1,4 +1,4 @@
-## EXPT NO: 2 OPEN CIRCUIT AND LOAD CIRCUIT CHARACTERISTICS OF D.C SHUNT GENERATOR
+## EXPT NO: 2 OPEN AND LOAD CIRCUIT CHARACTERISTICS OF D.C SHUNT GENERATOR
 
 ## Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
@@ -54,6 +54,7 @@ Load test
 <br>
 ### Open Circuit Characteristsics
 <img width="937" height="692" alt="Screenshot 2025-09-16 140940" src="https://github.com/user-attachments/assets/9957b2dc-d0fb-4436-b4cd-0781a96b3657" />
+
 ### Load Circuit Characteristsics
 <img width="1016" height="892" alt="Screenshot 2025-09-16 140854" src="https://github.com/user-attachments/assets/b9302e7c-1d9b-433c-9d77-0153f6238b56" />
 
